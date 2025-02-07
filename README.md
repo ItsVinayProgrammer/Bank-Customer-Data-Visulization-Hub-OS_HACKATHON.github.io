@@ -1,0 +1,1 @@
+Welcome to the Bank-Customer-Data-Visualization-Hub! This project is part of the OS Hackathon and focuses on providing an intuitive and interactive platform to visualize bank customer data. The goal is to allow users to analyze various banking metrics in a visually appealing and easy-to-understand format.
